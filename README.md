@@ -1,3 +1,6 @@
+ALL CREDITS GO TO the author [https://github.com/mikeckennedy/ten-tips-for-pythonic-code-jetbrains-webcast]
+This repo is just for learning.
+
 # 10 Tips for Pythonic Code via JetBrains Webcast
 
 This is the accompanying code for my webcast presented by JetBrains and the PyCharm team [*10 Tips for Pythonic Code*](https://blog.jetbrains.com/pycharm/2016/07/webinar-recording-10-tips-for-pythonic-code/).
